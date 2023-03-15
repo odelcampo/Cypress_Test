@@ -1,4 +1,4 @@
-# Cypress_Test
+# Technical_Test
 
 **First of all:**
 
